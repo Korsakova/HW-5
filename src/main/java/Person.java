@@ -1,3 +1,8 @@
+/**
+ * @author Korsakova Anastasiya
+ * Класс Person
+ */
+
 public class Person {
     // поля класса Person
     int age;

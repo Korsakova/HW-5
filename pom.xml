@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>HW#5</artifactId>
+    <artifactId>HW_5</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <build>
         <plugins>
             <plugin>
